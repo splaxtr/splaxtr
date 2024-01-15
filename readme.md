@@ -1,6 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmet "Splax"!</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<p align="left">
+I'm constantly honing my skills in C#, JavaScript and PHP to master back-end projects. My experience is usually at the beginning of projects and keeping the team informed about the development, progress and features that need to be added in the final phase. By following and managing the projects, I learn and grow together with my teammates.
 
+As of now, I am in the process of establishing a company called Vurthex Software. We will soon share with you the projects we will realize in this company. By following me on my LinkedIn account, you can closely follow the developments in this process and our projects.
+
+As a software developer always focused on learning new information and improving myself, I aim to grow both individually and by collaborating in a team. It is exciting for me to produce creative and innovative solutions. You can stay in touch with me on my social media accounts and follow our projects.
+
+Thank you, keep following me!
+</p>
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/TReZyggH2S" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TReZyggH2S" height="30" width="40" /></a>
