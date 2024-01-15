@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmet "Splax"!</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hello, I'm Ahmet "Splax"!</h1>
+<h3 align="center">Passionate Developer and Entrepreneur</h3>
 <p align="left">
 I'm constantly honing my skills in C#, JavaScript and PHP to master back-end projects. My experience is usually at the beginning of projects and keeping the team informed about the development, progress and features that need to be added in the final phase. By following and managing the projects, I learn and grow together with my teammates.
 
